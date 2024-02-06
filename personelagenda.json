@@ -1,0 +1,11 @@
+{
+    "status": "success",
+    "data":[
+	  {"id": "1", "nama": "Nama Contoh 1"},
+	  {"id": "2", "nama": "Nama Contoh 2"},
+	  {"id": "3", "nama": "Nama Contoh 3"},
+	  {"id": "4", "nama": "Saya adalah 1"},
+	  {"id": "5", "nama": "Saya Adalah 2"},
+	  {"id": "6", "nama": "Saya Adalah 3"}
+	]
+}
