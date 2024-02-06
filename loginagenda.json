@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "token": "eyJ0eXA",
+    "detail": {
+        "pns": 1,
+        "id_pns": "12345678",
+        "nip": "987654321",
+        "nik": "33445566778899",
+        "nip_lama": "010",
+        "nama": "User Android Test",
+        "id_unit_kerja": "1200",
+        "unit_kerja": "Dinas Penerbangan, Penyelaman dan Kebugaran",
+        "id_jabatan": "0122",
+        "jabatan": "Kepala Penerbangan, Penyelaman dan Kebugaran",
+        "status_jabatan": "kepala"
+    },
+    "type": 97
+}

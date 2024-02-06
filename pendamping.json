@@ -1,0 +1,12 @@
+{
+    "status": "success",
+    "data":[
+	  {"id": "1", "nama": "Asisten Pemerintahan dan Kesra"},
+	  {"id": "2", "nama": "Asisten Perekonomian dan Pembangunan"},
+	  {"id": "3", "nama": "Asisten Administrasi Umum"},
+	  {"id": "4", "nama": "SAB Bidang Pemerintahanan dan Hukum"},
+	  {"id": "5", "nama": "SAB Bidang Ekonomi, Keuangan dan Pembangunan"},
+	  {"id": "6", "nama": "SAB Bidang Kemasyarakatan dan Sumber Daya Manusia"}
+	  {"id": "7", "nama": "Inspektur Daerah"}
+	]
+}

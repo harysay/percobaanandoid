@@ -1,0 +1,75 @@
+{
+    "status": "success",
+    "data":[
+	  {
+		  "id": "1", 
+		  "no": "1",
+		  "tanggal": "Sabtu/10-02-2024",
+		  "waktujam":"08:00"
+		  "agenda":"Peringatan Isra Mi'raj Nabi Muhammad SAW",
+		  "tempat":"Masjid Ash Shiddiqiyah Prumpung RW II Kel. Bumirejo Kec. Kebumen",
+		  "hadir":"und.Bupati",
+		  "disposisi":"kamu iya kamu",
+		  "pendamping":"kamu aja lah",
+		  "keterangan": "tidak ingin",
+		  "lampiran": "isinya link",
+		  "kontak": "http://103.147.218.90:8182/eletter/cutionline/datadukung/sample28.pdf"
+	  },
+	  {
+		  "id": "2", 
+		  "no": "2",
+		  "tanggal": "Sabtu/10-02-2024",
+		  "waktujam":"09:00"
+		  "agenda":"Peringatan Isra Mi'raj",
+		  "tempat":"Masjid Aula Assalaf RT 02 RW 03 Dk Ngentah Desa Tunggalroso Kec. Prembun",
+		  "hadir":"und.Bupati",
+		  "disposisi":"kamu iya kamu",
+		  "pendamping":"kamu aja lah",
+		  "keterangan": "tidak ingin",
+		  "lampiran": "isinya link",
+		  "kontak": "http://103.147.218.90:8182/eletter/cutionline/datadukung/sample28.pdf"
+	  },
+	  {
+		  "id": "3", 
+		  "no": "3",
+		  "tanggal": "Sabtu/10-02-2024",
+		  "waktujam":"10:00"
+		  "agenda":"Wisuda AMIK PGRI Kebumen",
+		  "tempat":"Aula Gedung PGRI Jl. Kaswarai",
+		  "hadir":"und.Bupati",
+		  "disposisi":"kamu iya kamu",
+		  "pendamping":"kamu aja lah",
+		  "keterangan": "tidak ingin",
+		  "lampiran": "isinya link",
+		  "kontak": "http://103.147.218.90:8182/eletter/cutionline/datadukung/sample28.pdf"
+	  },
+	  {
+		  "id": "4", 
+		  "no": "4",
+		  "tanggal": "Sabtu/10-02-2024",
+		  "waktujam":"11:00"
+		  "agenda":"Apresiasi penghargaan dosen AMIK PGRI Kebumen",
+		  "tempat":"Pendopo Kabumian",
+		  "hadir":"und.Bupati",
+		  "disposisi":"kamu iya kamu",
+		  "pendamping":"kamu aja lah",
+		  "keterangan": "tidak ingin",
+		  "lampiran": "isinya link",
+		  "kontak": "http://103.147.218.90:8182/eletter/cutionline/datadukung/sample28.pdf"
+	  },
+	  {
+		  "id": "5", 
+		  "no": "5",
+		  "tanggal": "Sabtu/10-02-2024",
+		  "waktujam":"13:00"
+		  "agenda":"Kunjungan dan peresmian Gedung AMIK PGRI Kebumen",
+		  "tempat":"Gedung Baru AMIK PGRI Kebumen",
+		  "hadir":"und.Bupati",
+		  "disposisi":"kamu iya kamu",
+		  "pendamping":"kamu aja lah",
+		  "keterangan": "tidak ingin",
+		  "lampiran": "isinya link",
+		  "kontak": ""
+	  },
+	]
+}

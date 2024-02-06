@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "data":[
+	  {
+		  "id": "1", 
+		  "no": "1",
+		  "tanggal": "Sabtu/10 Februari 2024",
+		  "jmlkegiatan": "3"
+	  },
+	  {
+		  "id": "2", 
+		  "no": "2",
+		  "tanggal": "Kamis/08 Februari 2024",
+		  "jmlkegiatan": "2"
+	  },
+	  {
+		  "id": "3", 
+		  "no": "3",
+		  "tanggal": "Selasa/06 Februari 2024",
+		  "jmlkegiatan": "1"
+	  },
+	  {
+		  "id": "4", 
+		  "no": "4",
+		  "tanggal": "Senin/05 Februari 2024",
+		  "jmlkegiatan": "1"
+	  },
+	  {
+		  "id": "5", 
+		  "no": "5",
+		  "tanggal": "Minggu/04 Februari 2024",
+		  "jmlkegiatan": "4"
+	  },
+	]
+}
