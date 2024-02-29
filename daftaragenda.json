@@ -50,5 +50,12 @@
 		  "tglformat": "2024-02-06",
 		  "jmlkegiatan": "4"
 	  },
+	    {
+		  "id": "8", 
+		  "no": "8",
+		  "tanggal": "Rabu/07 Februari 2024",
+		  "tglformat": "2024-02-07",
+		  "jmlkegiatan": "5"
+	  },
 	]
 }
