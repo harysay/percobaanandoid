@@ -36,12 +36,19 @@
 		  "tglformat": "2024-02-04",
 		  "jmlkegiatan": "4"
 	  },
-	    {
+	  {
 		  "id": "6", 
 		  "no": "6",
 		  "tanggal": "Senin/05 Februari 2024",
 		  "tglformat": "2024-02-05",
 		  "jmlkegiatan": "6"
+	  },
+	    {
+		  "id": "7", 
+		  "no": "7",
+		  "tanggal": "Selasa/06 Februari 2024",
+		  "tglformat": "2024-02-06",
+		  "jmlkegiatan": "4"
 	  },
 	]
 }
