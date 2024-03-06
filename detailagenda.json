@@ -12,8 +12,8 @@
 		  "disposisi":"kamu iya kamu",
 		  "pendamping":"kamu aja lah",
 		  "keterangan": "tidak ingin",
-		  "lampiran": "isinya link",
-		  "kontak": "http://103.147.218.90:8182/eletter/cutionline/datadukung/sample28.pdf"
+		  "lampiran": "http://103.147.218.90:8182/eletter/cutionline/datadukung/sample28.pdf",
+		  "kontak": "55666778899"
 	  },
 	  {
 		  "id": "1", 
@@ -26,8 +26,8 @@
 		  "disposisi":"kamu iya kamu",
 		  "pendamping":"kamu aja lah",
 		  "keterangan": "tidak ingin",
-		  "lampiran": "isinya link",
-		  "kontak": "http://103.147.218.90:8182/eletter/cutionline/datadukung/sample28.pdf"
+		  "lampiran": "http://103.147.218.90:8182/eletter/cutionline/datadukung/sample28.pdf",
+		  "kontak": "987654321"
 	  },
 	  {
 		  "id": "1", 
@@ -40,8 +40,8 @@
 		  "disposisi":"kamu iya kamu",
 		  "pendamping":"kamu aja lah",
 		  "keterangan": "tidak ingin",
-		  "lampiran": "isinya link",
-		  "kontak": "http://103.147.218.90:8182/eletter/cutionline/datadukung/sample28.pdf"
+		  "lampiran": "http://103.147.218.90:8182/eletter/cutionline/datadukung/sample28.pdf",
+		  "kontak": "123456789"
 	  },
 	  {
 		  "id": "2", 
@@ -54,7 +54,7 @@
 		  "disposisi":"kamu iya kamu",
 		  "pendamping":"kamu aja lah",
 		  "keterangan": "tidak ingin",
-		  "lampiran": "isinya link",
+		  "lampiran": "http://103.147.218.90:8182/eletter/cutionline/datadukung/sample28.pdf",
 		  "kontak": "http://103.147.218.90:8182/eletter/cutionline/datadukung/sample28.pdf"
 	  },
 	  {
@@ -68,7 +68,21 @@
 		  "disposisi":"kamu iya kamu",
 		  "pendamping":"kamu aja lah",
 		  "keterangan": "tidak ingin",
-		  "lampiran": "isinya link",
+		  "lampiran": "http://103.147.218.90:8182/eletter/cutionline/datadukung/sample28.pdf",
+		  "kontak": ""
+	  },
+	    {
+		  "id": "3", 
+		  "no": "1",
+		  "tanggal": "Jumat/09 Februari 2024",
+		  "waktujam":"13:00",
+		  "agenda":"Peresmian jalan raya",
+		  "tempat":"Di jalan",
+		  "hadir":"und.Bupati",
+		  "disposisi":"kamu iya kamu",
+		  "pendamping":"kamu aja lah",
+		  "keterangan": "tidak ingin",
+		  "lampiran": "",
 		  "kontak": ""
 	  },
 	]
